@@ -9,3 +9,5 @@ This tool provides simple package installation, removal and updating! It even in
 I’ve not really had the opportunity to install many things via this tool yet, because I already had most of what I need. However I can definitely see myself enlisting it for future endeavours and possibly even submitting packages for my own things!
 
 – Lee
+
+Chocolatey’s site: https://chocolatey.org/
