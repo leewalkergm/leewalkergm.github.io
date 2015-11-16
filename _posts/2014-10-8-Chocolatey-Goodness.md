@@ -1,3 +1,9 @@
+---
+layout: post
+title: Chocolatey Goodness
+permalink: /Chocolatey-Goodness/
+---
+
 I’ve discovered a niche tool today, something rather powerful…
 
 …Chocolate!
