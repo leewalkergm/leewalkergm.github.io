@@ -16,4 +16,4 @@ I’ve not really had the opportunity to install many things via this tool yet, 
 
 – Lee
 
-Chocolatey’s site: https://chocolatey.org/
+Chocolatey’s site: [https://chocolatey.org/](https://chocolatey.org/)
