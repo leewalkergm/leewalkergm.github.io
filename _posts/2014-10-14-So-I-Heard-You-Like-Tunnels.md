@@ -1,5 +1,3 @@
-# So I heard you like tunnels?
-
 Recently, I’ve been doing a lot of work with mobile applications and hosted APIs. This has lead to one or two frustrations when trying to test the APIs out on actual devices…
 
 We have an Azure Mobile Service project which links to a Cordova driven mobile application.
