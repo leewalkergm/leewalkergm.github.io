@@ -12,16 +12,16 @@ I remember stumbling upon this piece of software a few months ago when I was que
 ## What we did
 A way I’ve brought this to our workflow is to first, open up my IISExpress instance by adding a new line into my applicationHosts.config file as follows:
 ```XML
-<site name="MvcMusicStore" id="2035164975">
-  <application path="/" applicationPool="Clr4IntegratedAppPool">
-      <virtualDirectory path="/" physicalPath="C:\Code\MvcMusicStore" />
-  </application>
-  <bindings>
-      <binding protocol="http" bindingInformation="*:59737:localhost" />
-      <binding protocol="http" bindingInformation="*:59737:127.0.0.1" />
+  <site name="MvcMusicStore" id="2035164975">
+      <application path="/" applicationPool="Clr4IntegratedAppPool">
+          <virtualDirectory path="/" physicalPath="C:\Code\MvcMusicStore" />
+      </application>
+      <bindings>
+          <binding protocol="http" bindingInformation="*:59737:localhost" />
+          <binding protocol="http" bindingInformation="*:59737:127.0.0.1" />
       <!-- ^this is the new line! -->
-  </bindings>
-</site>
+      </bindings>
+  </site>
 ```
 Secondly, I simply point ngrok to my .net WebApi’s 127.0.0.1:59737 url
 

@@ -11,8 +11,11 @@ Primarily I'm a web developer, with lots of experience in the ASP.NET (MVC/API) 
 See some examples of my work here:
 
 #### 2015
-- [GlobalElitist](http://globalelitist.com/) - Counter-strike strategy planning (Express/Angular || JavaScript)
+- [Global Elitist](http://globalelitist.com/) - Counter-strike strategy planning (Express/Angular || JavaScript)
 - [AtPeak](http://globalelitist.com/) - Leadership/management training by an industry veteran (ASP.NET MVC || C#)
+
+#### 2014
+- [Gaming Matterz](http://gamingmatterz.com/) - Gaming event management application (ASP.NET MVC/API || C#)
 
 #### 2013
 - [Just Memories](http://just-memories.co.uk/) - Local photographer's portfolio website (Django || Python)
