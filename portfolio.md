@@ -4,8 +4,6 @@ title: Career
 permalink: /career/
 ---
 
-# Career
-
 ## WealthKernel 
 > (2016 - Present)
 
