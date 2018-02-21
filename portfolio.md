@@ -11,9 +11,9 @@ Primarily I'm a web developer, with lots of experience in the ASP.NET (MVC/API) 
 ## WealthKernel 
 > (2016 - Present)
 
-[WealthKernel](http://wealthkernel.com) is a fintech startup, based in London. We are a business 2 business wealth management provider.
+[WealthKernel](http://wealthkernel.com) is a fintech startup, based in London. We are a business-to-business wealth management provider.
 
-Here, I am employee #5. One of the earliest software engineers, helping to build out the platform that will power this startup.
+Here, I am one of the earliest members of the team, helping to build out the platform that will power this startup.
 
 ### Challenges
 
@@ -30,9 +30,6 @@ This means that we have to take on more debt in certain areas, as well as making
 What we're trying to achieve has never been done before. 
 
 A multi-tenant, wealth management platform for other companies to hook into and build on top of to provide wealth management to their clients.
-
-Whilst it's fun building out from nothing, it also has it's moments which I would liken to climbing in the dark.
-
 
 ## CommonTime
 > (2014 - 2016)
