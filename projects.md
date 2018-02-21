@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
-
 ## Global Elitist
 [Global Elitist](http://globalelitist.com/)
 
